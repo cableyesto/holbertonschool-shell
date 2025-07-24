@@ -12,3 +12,4 @@ The script `10-back` that changes the working directory to the previous one.
 The script `11-lists` display the current directory, the previous and the /boot.
 The script `12-file_type` print the type of the filename named iamafile.
 The script `13-symbolic_link` print the type of the filename named iamafile.
+The script `14-copy_html`copies all the HTML files from the current working directory to the parent of the working directory.
