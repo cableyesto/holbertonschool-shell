@@ -5,3 +5,4 @@ The script `3-listfiles` display current directory contents in a long format.
 The script `4-listmorefiles` display current directory contents, including hidden files.
 The script `5-listfilesdigitonly` display current directory contents, including hidden files, with UID and GID.
 The script `6-firstdirectory` creates a directory named my_first_directory in the /tmp/ directory.
+The script `7-movethatfile` move the file betty from /tmp/ to /tmp/my_first_directory.
