@@ -15,3 +15,4 @@ The script `13-symbolic_link` print the type of the filename named iamafile.
 The script `14-copy_html`copies all the HTML files from the current working directory to the parent of the working directory.
 The script `15-lets_move` moves all files beginning with an uppercase letter to the directory /tmp/u.
 The script `16-clean_emacs` deletes all files in the current working directory that end with the character ~.
+The script `17-tree` script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
