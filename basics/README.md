@@ -7,3 +7,4 @@ The script `5-listfilesdigitonly` display current directory contents, including 
 The script `6-firstdirectory` creates a directory named my_first_directory in the /tmp/ directory.
 The script `7-movethatfile` move the file betty from /tmp/ to /tmp/my_first_directory.
 The script `8-firstdelete` delete the file betty is in /tmp/my_first_directory.
+The script `9-firstdirdeletion` delete the directory /tmp/my_first_directory.
